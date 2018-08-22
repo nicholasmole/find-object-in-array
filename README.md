@@ -5,7 +5,7 @@ Find an Object in an array of Objects using property and key
 
 ## Usage
 
-`var findOinA = require('find-object-in-array');`
+`var findOinA = require('@nicholasmole/find-object-in-array');`
                                                             
 ```                                                                     
   var _array = [

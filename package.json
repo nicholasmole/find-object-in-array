@@ -1,5 +1,5 @@
 {
-  "name": "find-object-in-array",
+  "name": "@nicholasmole/find-object-in-array",
   "version": "0.1.0",
   "description": "Find an Object in an array of Objects using property and key",
   "main": "index.js",
