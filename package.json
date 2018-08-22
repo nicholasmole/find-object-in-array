@@ -1,0 +1,24 @@
+{
+  "name": "find-object-in-array",
+  "version": "0.1.0",
+  "description": "Find an Object in an array of Objects using property and key",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "Object",
+    "Array",
+    "Finding"
+  ],
+  "author": "Nicholas Mole",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicholasmole/find-object-in-array"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
